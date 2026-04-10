@@ -1,0 +1,12 @@
+{
+  "name": "lifelink-blood-bank",
+  "version": "1.0.0",
+  "description": "LifeLink Blood Bank System — Full Stack Web Application",
+  "scripts": {
+    "start": "cd backend && node server.js",
+    "install-deps": "cd backend && npm install",
+    "setup": "cd backend && npm install && node server.js"
+  },
+  "author": "LifeLink Team",
+  "license": "MIT"
+}
